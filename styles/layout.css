@@ -1,0 +1,25 @@
+.layout-header {
+  background-color: #264653;
+  color: #f4a261;
+  font-size: 30px;
+  text-align: left;
+  padding: 30px;
+}
+
+.layout-footer {
+  bottom: 0px;
+  width: 100vw;
+  padding: 20px;
+  font-size: 30px;
+  color: #f4a261;
+  text-align: left;
+  position: absolute;
+  background-color: #264653;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
