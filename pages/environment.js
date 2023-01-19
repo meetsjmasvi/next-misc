@@ -8,7 +8,7 @@ export default function EnvironmentVariables() {
         variables in next.js <br />
         <br />
         create a file with names .env .env.development .env.production
-        .env.local (this always override the default sets)
+        .env.local this always override the default sets
         <br />
         <br />
       </p>
@@ -20,7 +20,7 @@ export default function EnvironmentVariables() {
         <br />
         This is the value of DB_USERNAME ____
         <small style={{ color: "red" }}>
-          //Won't be displayed due to nextjs validation
+          Wont be displayed due to nextjs validation
         </small>
         <br />
         This is the value of ANALYTICS_ID:
